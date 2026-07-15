@@ -22,7 +22,7 @@ You successfully created a pull request. Now it's time to merge it!
 
    ![screenshot showing delete branch button](https://github.com/almightydhruv/skills-introduction-to-github2/blob/main/.github/images/delete-branch-button.png?raw=true)
 
-4. Now that your work is merged, Mona will confirm and share some final review content. Nice work! 🎉
+4. Now that your work is merged, Mona will confirm and share some final review content. This usually takes about a minute. Nice work! 🎉
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
